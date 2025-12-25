@@ -1,0 +1,40 @@
+[
+    {
+        "token": "token name",
+        "headers": {
+            "Host": "twitter.com",
+            "Cookie": "auth_token=; ct0=",
+            "X-Twitter-Client-Language": "en",
+            "X-Csrf-Token": "",
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
+            "Content-Type": "application/json",
+            "Accept": "*/*",
+            "X-Twitter-Auth-Type": "OAuth2Session",
+            "X-Twitter-Active-User": "yes",
+            "Sec-Fetch-Site": "same-origin",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Dest": "empty",
+            "Accept-Language": "en-US,en;q=0.9"
+        }
+    },
+    {
+        "token": "",
+        "headers": {
+            "Host": "twitter.com",
+            "Cookie": "auth_token=; ct0=",
+            "X-Twitter-Client-Language": "en",
+            "X-Csrf-Token": "",
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
+            "Content-Type": "application/json",
+            "Accept": "*/*",
+            "X-Twitter-Auth-Type": "OAuth2Session",
+            "X-Twitter-Active-User": "yes",
+            "Sec-Fetch-Site": "same-origin",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Dest": "empty",
+            "Accept-Language": "en-US,en;q=0.9"
+        }
+    }
+]
